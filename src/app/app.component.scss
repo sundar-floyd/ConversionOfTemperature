@@ -1,0 +1,44 @@
+.Answer{
+    width: 70%;
+    display:flex;
+    color:blue;
+    justify-content:space-around;
+    
+}
+input{
+    height: 6.5vh;
+    font-size: 18px;
+}
+button{
+    height: 53px;
+    color: rgb(247, 218, 218);
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #383b3d;
+    border-radius: 7px;
+    background: #a3c3ec;
+    transition: all 0.1s ease;
+}
+.outwards{
+    margin: 25px;
+    border: 1.8px solid green;
+    background-color: rgb(231, 235, 245);
+    padding: 35px;
+    width: 120%;
+    box-sizing: border-box;
+    align-items: center;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    text-size-adjust: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+
+
+
+
+
